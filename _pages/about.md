@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fullstack Sucurity System Lab (FSSL)"
+title: "Fullstack Security System Lab (FSSL)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

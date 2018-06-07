@@ -11,9 +11,9 @@ title                    : "FSSL"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://testurl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://syracuse-fullstacksecurity.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "testurl/testurl.github.io"
+repository               : "syracuse-fullstacksecurity/syracuse-fullstacksecurity.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "FSSL"
-  avatar           : "https://raw.githubusercontent.com/testurl/testurl.github.io/master/images/FSSL.jpg"
+  avatar           : "https://raw.githubusercontent.com/syracuse-fullstacksecurity/syracuse-fullstacksecurity.github.io/master/images/FSSL.jpg"
   bio              : 
   location         : 
   employer         :

@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-To be updated
+Welcome to the Fullstack System Security Lab (FSSL) at Syracuse University.
 

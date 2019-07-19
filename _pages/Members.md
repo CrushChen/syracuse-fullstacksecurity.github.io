@@ -11,15 +11,22 @@ Current members
 | Name | Role | Picture | Webpage |
 | ---- | --- | --- | --- |
 | Dr. Yuzhe Tang | Faculty | ![](../images/Yuzhe-Richard.jpg) | [[ecs.syr.edu/faculty/yuzhe](http://ecs.syr.edu/faculty/yuzhe)] |
-| Ju Chen | PhD | ![](../images/ju2.jpg) | [[chenju2k6.github.io](http://chenju2k6.github.io/)] |
 | Kai Li | PhD | ![](../images/kai1.jpeg) | [[likai1993.github.io](http://likai1993.github.io)] |
-| Vishal Kudale | Master | ![](../images/vishal.jpg) | [[vishalkudale92.github.io](http://vishalkudale92.github.io)]
-| Qinzhe Zhang | Master | ![](../images/qinzhe.jpg) | [[linkedin](https://www.linkedin.com/in/qinzhez)]
+| Qi Zhang | PhD | | |
+| Ankit Khare | PhD | |
+| Jingwen Xu | PhD | |
+| Seyedsina Dinparvar | PhD | |
+| Ju Chen (on leave) | PhD | ![](../images/ju2.jpg) | |
+| Sencer Burak Somuncuoglu | Master | ![](https://avatars2.githubusercontent.com/u/13599862?s=400&v=4) | [[github](https://github.com/sbsomuncuoglu)]
 | Hao Zhou | Undergraduate | ![](../images/haozhou.jpg) | [[linkedin](https://www.linkedin.com/in/hao-zhou-1a3680135)]
 | Qiwu Zou | Undergraduate | ![](../images/qiwu.jpg) |[[linkedin](https://www.linkedin.com/in/qiwu-zou-096810131)]  
-| Muzhen Li | Undergraduate | | [[limuzhen.github.io](https://cyurse.github.io/limuzhen.github.io/)]
 | Congcong Xie | Undergraduate | ![](../images/congcong.jpeg)  | [[congcong.github.io](https://congcongxie.github.io/Congcong.github.io/)]
+| Adam Piekarski | Undergraduate/REU |  | 
 | Zhehu Yuan | Undergraduate | ![](../images/zhehu.jpg) | [[zhehuyuan.github.io](https://zhehuyuan.github.io/)] |
+| Jeong Bin Oh | Undergraduate/REU |  |
+| Sharell Scott | Undergraduate/REU |  |
+</li>
+
 
 #### Group picture (May, 2018)
 

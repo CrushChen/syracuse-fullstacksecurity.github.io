@@ -6,9 +6,43 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+2019
+======
+
+Kai Li, Yuzhe Tang, Jianliang Xu, Ben Kim. 
+"Secure Consistency Verification for Untrusted Cloud Storage by Public Blockchains"
+SecureComm 2019
+
+Yuzhe Tang, Ju Chen, Kai Li. 
+"Authenticated LSM Trees with Minimal Trust" (Short paper) 
+SecureComm 2019
+
+Yuzhe Tang, Wenliang Du. 
+"Hands-on Labs for Secure Programming on Modern Trusted Platforms"
+CISSE 2019
+
+K. Areekijseree, Yuzhe Tang, Sucheta Soundarajan
+"Computing Node Clustering Coefficients Securely"
+ASONAM 2019, Short paper, AR=29% 
+
+Ce Zhang, Cheng Xu, Jianliang Xu, Yuzhe Tang, Byron Choi. 
+"GEM^2-Tree: A Gas-Efficient Structure for Authenticated Range Queries in Blockchain" 
+IEEE ICDE 2019, Full Paper, AR=26.8% 
 
 2018 
 ======
+
+Qiwu Zou, Yuzhe Tang, Ju Chen, Kai Li, Charles Kamoua, Kevin Kwiat, Laurent Njilla. 
+"ChainFS: Blockchain-Secured Cloud Storage"
+IEEE Cloud 2018
+
+K. Areekijseree, Yuzhe Tang, Ju Chen, Shuang Wang, Arun Iyengar and B. Palanisamy. 
+"Secure and Efficient Multi-Party Directory Publication for Privacy-Preserving Data Sharing." 
+SecureComm 2018, AR=30.6%
+
+Yuzhe (Richard) Tang, Zihao Xing, Cheng Xu, Ju Chen, Jianliang Xu. 
+"Lightweight Blockchain Logging for Data-Intensive Applications"
+2nd Workshop of Trusted Smart Contracts 2018 at International Conference on Financial Cryptography and Data Security
 
 Hailu Xu, Liting Hu, Pinchao Liu, Yao Xiao, Wentao Wang, Jai Dayal, Qingyang Wang and Yuzhe Tang 
 "Oases: An Online Scalable Spam Detection System for Social Networks" 

@@ -16,7 +16,6 @@ Current members
     - Qi Zhang 
     - Ankit Khare 
     - Jingwen Xu
-    - Ju Chen (on leave) 
 - Master students (Independent study)
     - Sencer Burak Somuncuoglu [[website](https://github.com/sbsomuncuoglu)]
 - Undergraduates (REU)

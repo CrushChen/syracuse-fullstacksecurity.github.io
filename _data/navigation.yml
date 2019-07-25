@@ -3,8 +3,8 @@ main:
   - title: "Members"
     url: /Members/
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Picture"
+    url: /Picture/    
 
 #  - title: "Teaching"
 #    url: /teaching/    

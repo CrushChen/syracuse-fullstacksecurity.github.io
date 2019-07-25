@@ -27,10 +27,6 @@ Current members
 <!--
 ![](https://avatars2.githubusercontent.com/u/13599862?s=400&v=4) 
 -->
-#### Group picture (May, 2018)
-
-![Group picture (May, 2018)](../images/group_2018.05-small.jpg)
-
 
 Alumni
 ---

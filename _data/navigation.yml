@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Members"
-    url: /Members/
-
-  - title: "Picture"
-    url: /Picture/    
+    url: /Members/ 
 
 #  - title: "Teaching"
 #    url: /teaching/    
@@ -21,3 +18,5 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
+  - title: "Picture"
+    url: /Picture/   
